@@ -1,0 +1,17 @@
+.text{
+ color: #E0FFFF;
+ font-family: Edwardian Script ITC;
+ font-size: 450%;
+ }
+  
+ input {
+width: 219px;
+    height: 50px;
+    font: 14px 'Myriad Pro', sans-serif;
+    background: linear-gradient(to right, #fff,#191970); /*2d6160*/
+    border: none;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+     background: linear-gradient(to right,rgba(64,103,116,0.2), rgba(255,255,255,0.3),rgba(38,83,98,1));
+  }
